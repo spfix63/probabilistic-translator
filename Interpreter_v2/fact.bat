@@ -1,0 +1,1 @@
+java -cp ..\Compiler\ main/Main < ..\Compiler\fact | java main/Main

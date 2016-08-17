@@ -1,0 +1,1 @@
+java -cp ..\Compiler\ main/Main < ..\Compiler\sort | java main/Main
